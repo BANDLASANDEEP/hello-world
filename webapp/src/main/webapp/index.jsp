@@ -1,2 +1,2 @@
-<h1> Hello, Welcome to World of Devops from AWS !!! </h1>
-<h2> I am new to Devops Learning CICD Pipeline </h2>
+<h1> Hii SANDEEP , now you are going to build simple CI CD Pipeline !!! </h1>
+<h2> heyy Sandeep now you are done with it,congrats nd all the best </h2>
